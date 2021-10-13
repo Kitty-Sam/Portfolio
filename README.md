@@ -1,2 +1,1 @@
-# rsschool-cv
-https://Kitty-Sam.github.io/rsschool-cv/cv
+скелет портфолио с возможным его дальнейшим изменением
